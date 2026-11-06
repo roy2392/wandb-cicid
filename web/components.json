@@ -21,12 +21,5 @@
   },
   "menuColor": "default",
   "menuAccent": "subtle",
-  "registries": {
-    "@affectui": {
-      "url": "https://www.affectui.com/r/{name}.json",
-      "headers": {
-        "Authorization": "Bearer ${AFFECTUI_TOKEN}"
-      }
-    }
-  }
+  "registries": {}
 }
